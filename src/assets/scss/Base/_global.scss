@@ -1,0 +1,28 @@
+
+body{ 
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body.open-modal {
+    overflow: hidden;
+    padding-right: 17px;
+}
+
+body.open-bars{
+    overflow: hidden;
+}
+
+a:hover{
+    color: unset;
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}

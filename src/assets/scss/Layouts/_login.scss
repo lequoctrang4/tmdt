@@ -1,0 +1,79 @@
+.login {
+  width: 50%;
+  .logo {
+    display: none;
+  }
+  .login__wrap {
+    min-width: 300px;
+  }
+  .login__wrapper {
+    // display: inline-block;
+    background: $background-color;
+    height: 570px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .title {
+      h1 {
+        color: $primary-color;
+        font-weight: 700;
+        padding: 10px 0;
+        margin-bottom: 40px;
+      }
+    }
+    .form__content {
+      @include input();
+
+      .form__submit-login {
+        .btn-submit-login {
+          @include button();
+        }
+      }
+    }
+    .form__info {
+      margin: 15px 0;
+      font-size: 18px;
+
+      span {
+        a {
+          color: $primary-color;
+          font-weight: 500;
+
+          &:hover {
+            opacity: 0.9;
+          }
+        }
+      }
+    }
+    .form__social {
+      .btn-fb {
+        outline: none;
+        border: none;
+        width: 100%;
+        padding: 10px 15px;
+        border-radius: 10px;
+        background: $primary-color;
+        color: #fff;
+        transition: all 0.2s;
+
+        &:hover {
+          opacity: 0.9;
+        }
+
+        i {
+          margin-right: 15px;
+          font-size: 25px;
+        }
+
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  .Toastify__toast-body > div:last-child {
+    text-align: left;
+  }
+}

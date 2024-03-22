@@ -1,0 +1,163 @@
+
+header {
+    background: $primary-background-color;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    
+    .header__container {
+        width: 95%;
+        margin: auto;
+
+        #check, label{
+            display: none;
+        }
+
+        .nav__list{
+            display: none;
+        }
+        
+
+
+
+
+        .header__logo{ 
+            img {
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            }
+            span {
+                color: $primary-color;
+                text-transform: uppercase;
+                font-weight: 700;
+                letter-spacing: 2px;
+            }
+        }
+
+        .header__content{
+            padding: 10px 0;
+        }
+
+        .header__content, .header__right{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .header__right{
+            .header__search {
+                i , span {
+                    color: #fff;
+                    cursor: pointer;
+                    font-size: 18px;
+                    transition: all .3s;
+                }
+
+                i {
+                    margin: 0 5px;
+                    color: $primary-color;
+                }
+                span {
+                    &:hover{
+                        color: $primary-color;
+                    }
+                }
+            }
+
+            .header__cart{
+                margin: 0 25px;
+                position: relative;
+                cursor: pointer;
+
+                i{
+                    font-size: 20px;
+                    color: #fff;
+                    transition: all .3s;
+                    line-height: 30px;
+                    &:hover {
+                        opacity: .9;
+                    }
+                }
+
+                span {
+                    position: absolute;
+                    top: -6px;
+                    right: -13px;
+                    // padding-right: 1px;
+                    width: 18px;
+                    height: 18px;
+                    line-height: 19px;
+                    border: 1px solid $sec-color;
+                    
+                    background: $background-color;
+                    color: $primary-color;
+                    border-radius: 50%;
+                    z-index: 1;
+                    text-align: center;
+                    font-size: 13px;
+                }
+            }
+
+            .header__login{
+                button {
+                    @include button();
+                    padding: 8px 35px;
+                }
+            }
+
+            .header__profile {
+                position: relative;
+                img {
+                    width: 50px;
+                    height: 50px;
+                    cursor: pointer;
+                    border-radius: 50%;
+                }
+
+                .header__profile-option {
+                    position: absolute;
+                    top: 60px;
+                    right: -20px;
+                    width: 250px;
+                    box-shadow: 0 1px 10px 0 $sec-color ;
+                    background: $background-color;
+                    padding: 10px;
+                    border-radius: 5px;
+                    z-index: 999;
+
+                    &::after {
+                        content: '';
+                        width: 10px;
+                        height: 10px;
+                        position: absolute;
+                        top: -5px;
+                        right: 40px;
+                        transform: rotate(45deg);
+                        background: $background-color;
+                    }
+
+                    ul {
+                        li {
+                            cursor: pointer;
+                            padding: 10px 15px;
+                            transition: all .3s;
+                            border-radius: 5px;
+                            i {
+                                color: $primary-color;
+                                margin-right: 10px;
+                            }
+                            span {
+                                color: $primary-color;
+                            }
+
+                            &:hover {
+                                background: $background-color;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

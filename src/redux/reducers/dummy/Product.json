@@ -1,0 +1,147 @@
+{
+  "statusCode": 200,
+  "message": "Thành công!",
+  "content": [
+    {
+      "id": 1,
+      "name": "Áo choàng Harry Potter nhà Gryffindor",
+      "price": 100000,
+      "description": "ÁO CHÙNG/ÁO CHOÀNG HARRY POTTER DÀNH CHO NAM VÀ NỮ ĐẦY ĐỦ 4 NHÀ HOGWARTS \n🌈🌈 Sản phẩm bán siêu chạy, là potterhead không thể bỏ qua món này nhé các bồ ^^ \n \t🔮 MÔ TẢ SẢN PHẨM: \n \t \t⚡Có size em bé đến size lớn XXL, hợp nam nữ với mọi độ tuổi \n \t \t⚡Áo được may 2 lớp dày dặn\n \t \t⚡Lớp ngoài vải kaki dày, lớp trong theo màu từng nhà, chất vải dù (không bóng)\n \t \t⚡Áo có mũ rộng rãi\n \t \t⚡Áo có ngăn để đũa phép xịn xò\n \t \t⚡Shop có nhiều size từ em bé đến người lớn\n \t \t⚡Mua càng nhiều càng rẻ (liên hệ shop để nhận giá tốt) \n \t Kích thước: M, L, XL, 2XL \n \t \tKích thước: M, dài: 110cm, ngực: 102cm, vai: 46cm, dài tay: 57cm, cao: 164-169cm\n \t \tKích thước: L, dài: 112cm, ngực: 110cm, vai: 48cm, chiều dài tay: 58cm, chiều cao: 170-175cm\n \t \tKích thước: XL, dài: 115cm, ngực: 112cm, vai: 50cm, dài tay: 60cm, cao: 176-180cm\n \t \tKích thước: 2XL, dài: 116cm, ngực: 115cm, vai: 51cm, chiều dài tay: 60cm, chiều cao: Trên 180cm\n \tGhi chú:\n \t \t1. Do đo lường thủ công có thể có 1-3 cm sai số phạm vi cho phép.\n \t \t2. Do sự khác biệt về ánh sáng và màn hình, màu sắc của sản phẩm có thể hơi khác so với hình ảnh.                  ",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "2,3,5",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sfd382158401f42bd9790b4d5cfae9cfd3.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 2,
+      "name": "Áo choàng Harry Potter nhà Hufflepuff",
+      "price": 100000,
+      "description": "ÁO CHÙNG/ÁO CHOÀNG HARRY POTTER DÀNH CHO NAM VÀ NỮ ĐẦY ĐỦ 4 NHÀ HOGWARTS \n🌈🌈 Sản phẩm bán siêu chạy, là potterhead không thể bỏ qua món này nhé các bồ ^^ \n \t🔮 MÔ TẢ SẢN PHẨM: \n \t \t⚡Có size em bé đến size lớn XXL, hợp nam nữ với mọi độ tuổi \n \t \t⚡Áo được may 2 lớp dày dặn\n \t \t⚡Lớp ngoài vải kaki dày, lớp trong theo màu từng nhà, chất vải dù (không bóng)\n \t \t⚡Áo có mũ rộng rãi\n \t \t⚡Áo có ngăn để đũa phép xịn xò\n \t \t⚡Shop có nhiều size từ em bé đến người lớn\n \t \t⚡Mua càng nhiều càng rẻ (liên hệ shop để nhận giá tốt) \n \t Kích thước: M, L, XL, 2XL \n \t \tKích thước: M, dài: 110cm, ngực: 102cm, vai: 46cm, dài tay: 57cm, cao: 164-169cm\n \t \tKích thước: L, dài: 112cm, ngực: 110cm, vai: 48cm, chiều dài tay: 58cm, chiều cao: 170-175cm\n \t \tKích thước: XL, dài: 115cm, ngực: 112cm, vai: 50cm, dài tay: 60cm, cao: 176-180cm\n \t \tKích thước: 2XL, dài: 116cm, ngực: 115cm, vai: 51cm, chiều dài tay: 60cm, chiều cao: Trên 180cm\n \tGhi chú:\n \t \t1. Do đo lường thủ công có thể có 1-3 cm sai số phạm vi cho phép.\n \t \t2. Do sự khác biệt về ánh sáng và màn hình, màu sắc của sản phẩm có thể hơi khác so với hình ảnh.                  ",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "3,4,6",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S088c0ee60a5948d9972a703d010521ff3.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 3,
+      "name": "Áo choàng Harry Potter nhà Ravenclaw",
+      "price": 100000,
+      "description": "ÁO CHÙNG/ÁO CHOÀNG HARRY POTTER DÀNH CHO NAM VÀ NỮ ĐẦY ĐỦ 4 NHÀ HOGWARTS \n🌈🌈 Sản phẩm bán siêu chạy, là potterhead không thể bỏ qua món này nhé các bồ ^^ \n \t🔮 MÔ TẢ SẢN PHẨM: \n \t \t⚡Có size em bé đến size lớn XXL, hợp nam nữ với mọi độ tuổi \n \t \t⚡Áo được may 2 lớp dày dặn\n \t \t⚡Lớp ngoài vải kaki dày, lớp trong theo màu từng nhà, chất vải dù (không bóng)\n \t \t⚡Áo có mũ rộng rãi\n \t \t⚡Áo có ngăn để đũa phép xịn xò\n \t \t⚡Shop có nhiều size từ em bé đến người lớn\n \t \t⚡Mua càng nhiều càng rẻ (liên hệ shop để nhận giá tốt) \n \t Kích thước: M, L, XL, 2XL \n \t \tKích thước: M, dài: 110cm, ngực: 102cm, vai: 46cm, dài tay: 57cm, cao: 164-169cm\n \t \tKích thước: L, dài: 112cm, ngực: 110cm, vai: 48cm, chiều dài tay: 58cm, chiều cao: 170-175cm\n \t \tKích thước: XL, dài: 115cm, ngực: 112cm, vai: 50cm, dài tay: 60cm, cao: 176-180cm\n \t \tKích thước: 2XL, dài: 116cm, ngực: 115cm, vai: 51cm, chiều dài tay: 60cm, chiều cao: Trên 180cm\n \tGhi chú:\n \t \t1. Do đo lường thủ công có thể có 1-3 cm sai số phạm vi cho phép.\n \t \t2. Do sự khác biệt về ánh sáng và màn hình, màu sắc của sản phẩm có thể hơi khác so với hình ảnh.                  ",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "4,5,7",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S68e12bf119f746f79681b6165e74b036n.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 4,
+      "name": "Áo choàng Harry Potter nhà Slytherin",
+      "price": 100000,
+      "description": "ÁO CHÙNG/ÁO CHOÀNG HARRY POTTER DÀNH CHO NAM VÀ NỮ ĐẦY ĐỦ 4 NHÀ HOGWARTS \n🌈🌈 Sản phẩm bán siêu chạy, là potterhead không thể bỏ qua món này nhé các bồ ^^ \n \t🔮 MÔ TẢ SẢN PHẨM: \n \t \t⚡Có size em bé đến size lớn XXL, hợp nam nữ với mọi độ tuổi \n \t \t⚡Áo được may 2 lớp dày dặn\n \t \t⚡Lớp ngoài vải kaki dày, lớp trong theo màu từng nhà, chất vải dù (không bóng)\n \t \t⚡Áo có mũ rộng rãi\n \t \t⚡Áo có ngăn để đũa phép xịn xò\n \t \t⚡Shop có nhiều size từ em bé đến người lớn\n \t \t⚡Mua càng nhiều càng rẻ (liên hệ shop để nhận giá tốt) \n \t Kích thước: M, L, XL, 2XL \n \t \tKích thước: M, dài: 110cm, ngực: 102cm, vai: 46cm, dài tay: 57cm, cao: 164-169cm\n \t \tKích thước: L, dài: 112cm, ngực: 110cm, vai: 48cm, chiều dài tay: 58cm, chiều cao: 170-175cm\n \t \tKích thước: XL, dài: 115cm, ngực: 112cm, vai: 50cm, dài tay: 60cm, cao: 176-180cm\n \t \tKích thước: 2XL, dài: 116cm, ngực: 115cm, vai: 51cm, chiều dài tay: 60cm, chiều cao: Trên 180cm\n \tGhi chú:\n \t \t1. Do đo lường thủ công có thể có 1-3 cm sai số phạm vi cho phép.\n \t \t2. Do sự khác biệt về ánh sáng và màn hình, màu sắc của sản phẩm có thể hơi khác so với hình ảnh.                  ",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "7,8,6",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S3b1812258e1b415bb38159f682181241m.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 5,
+      "name": "Full bộ Harry Potter nhà Gryffindor",
+      "price": 120000,
+      "description": "Full bộ áo choàng Harry Potter như sau\n\t• Đủ 4 nhà Gryffindor, Hufflepuff, Ravenclaw, Slytherin\n \t• Với 3 size M, L, XL\n \t• Đũa phép: 3 loại khác nhau, dài ngắn đủ cả, có cả đũa phép phát sáng luôn nhé\n \t• Cà vạt: 2 nhà Gryffindor và Slytherin",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "2,3,8",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S8839de00db044782a9703134bb665310l.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 6,
+      "name": "Full bộ Harry Potter nhà Hufflepuff",
+      "price": 120000,
+      "description": "Full bộ áo choàng Harry Potter như sau\n\t• Đủ 4 nhà Gryffindor, Hufflepuff, Ravenclaw, Slytherin\n \t• Với 3 size M, L, XL\n \t• Đũa phép: 3 loại khác nhau, dài ngắn đủ cả, có cả đũa phép phát sáng luôn nhé\n \t• Cà vạt: 2 nhà Gryffindor và Slytherin",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "4,2,3",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/S1304ae5e389f48eeaf339e5fa8ec1e30U.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 7,
+      "name": "Full bộ Harry Potter nhà Ravenclaw",
+      "price": 120000,
+      "description": "Full bộ áo choàng Harry Potter như sau\n\t• Đủ 4 nhà Gryffindor, Hufflepuff, Ravenclaw, Slytherin\n \t• Với 3 size M, L, XL\n \t• Đũa phép: 3 loại khác nhau, dài ngắn đủ cả, có cả đũa phép phát sáng luôn nhé\n \t• Cà vạt: 2 nhà Gryffindor và Slytherin",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "8,2,3",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sae30c285b22741a982948b2c076305ae1.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 8,
+      "name": "Full bộ Harry Potter nhà Slytherin",
+      "price": 120000,
+      "description": "Full bộ áo choàng Harry Potter như sau\n\t• Đủ 4 nhà Gryffindor, Hufflepuff, Ravenclaw, Slytherin\n \t• Với 3 size M, L, XL\n \t• Đũa phép: 3 loại khác nhau, dài ngắn đủ cả, có cả đũa phép phát sáng luôn nhé\n \t• Cà vạt: 2 nhà Gryffindor và Slytherin",
+      "size": "M, L, XL, XXL",
+      "quantity": 10,
+      "relatedProducts": "2,4,6",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sad617ff50d554eff9a00bae0b6029a75M.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 9,
+      "name": "Caravat nhà Gryffindor",
+      "price": 20000,
+      "description": "Các tính năng:\n \t \tMới 100%;\n \t \tQuà Tặng Chất lượng cao và vô nhiễm;\n \t \tCà vạt màu làm bằng tay hoàn toàn mới;\n \t \tChất liệu lụa chất lượng phù hợp với mọi dịp;\n \t \tThiết kế cổ co giãn phù hợp với mọi lứa tuổi.\n \n Thông số kỹ thuật:\n\t\tVật liệu: sợi Polyester\n\t\tMàu sắc: hiển thị như hình ảnh\n\t\tChiều dài Cà Vạt: Khoảng 39.8 in\n\t\tChiều rộng (rộng nhất): khoảng 2.4 in\n\t\tGói bao gồm: 1 x cà vạt\nLưu ý:\n\t\t1. Vui lòng cho phép chênh lệch 0.1-0.3cm do đo bằng tay, cảm ơn.\n\t\t2. Xin vui lòng hiểu vì sự chiếu xạ ánh sáng hoặc sự khác biệt hiển thị của máy tính, vì vậy tôi không thể đảm bảo ảnh và màu sắc giống nhau 100%.\n\t\t",
+      "size": "Freesize",
+      "quantity": 10,
+      "relatedProducts": "10,11,13",
+      "image": "https://lzd-img-global.slatic.net/g/p/e9522f8de01ca960d734f352664db954.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 10,
+      "name": "Caravat nhà Hufflepuff",
+      "price": 20000,
+      "description": "Các tính năng:\n \t \tMới 100%;\n \t \tQuà Tặng Chất lượng cao và vô nhiễm;\n \t \tCà vạt màu làm bằng tay hoàn toàn mới;\n \t \tChất liệu lụa chất lượng phù hợp với mọi dịp;\n \t \tThiết kế cổ co giãn phù hợp với mọi lứa tuổi.\n \n Thông số kỹ thuật:\n\t\tVật liệu: sợi Polyester\n\t\tMàu sắc: hiển thị như hình ảnh\n\t\tChiều dài Cà Vạt: Khoảng 39.8 in\n\t\tChiều rộng (rộng nhất): khoảng 2.4 in\n\t\tGói bao gồm: 1 x cà vạt\nLưu ý:\n\t\t1. Vui lòng cho phép chênh lệch 0.1-0.3cm do đo bằng tay, cảm ơn.\n\t\t2. Xin vui lòng hiểu vì sự chiếu xạ ánh sáng hoặc sự khác biệt hiển thị của máy tính, vì vậy tôi không thể đảm bảo ảnh và màu sắc giống nhau 100%.\n\t\t",
+      "size": "Freesize",
+      "quantity": 10,
+      "relatedProducts": "9,14,10",
+      "image": "https://lzd-img-global.slatic.net/g/p/29351bdc347bee916182ca62d708c4f8.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 11,
+      "name": "Caravat nhà Ravenclaw",
+      "price": 20000,
+      "description": "Các tính năng:\n \t \tMới 100%;\n \t \tQuà Tặng Chất lượng cao và vô nhiễm;\n \t \tCà vạt màu làm bằng tay hoàn toàn mới;\n \t \tChất liệu lụa chất lượng phù hợp với mọi dịp;\n \t \tThiết kế cổ co giãn phù hợp với mọi lứa tuổi.\n \n Thông số kỹ thuật:\n\t\tVật liệu: sợi Polyester\n\t\tMàu sắc: hiển thị như hình ảnh\n\t\tChiều dài Cà Vạt: Khoảng 39.8 in\n\t\tChiều rộng (rộng nhất): khoảng 2.4 in\n\t\tGói bao gồm: 1 x cà vạt\nLưu ý:\n\t\t1. Vui lòng cho phép chênh lệch 0.1-0.3cm do đo bằng tay, cảm ơn.\n\t\t2. Xin vui lòng hiểu vì sự chiếu xạ ánh sáng hoặc sự khác biệt hiển thị của máy tính, vì vậy tôi không thể đảm bảo ảnh và màu sắc giống nhau 100%.\n\t\t",
+      "size": "Freesize",
+      "quantity": 10,
+      "relatedProducts": "10,12,14",
+      "image": "https://lzd-img-global.slatic.net/g/p/ece0d3daf6f6254871c6c9e335ebe6b6.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 12,
+      "name": "Caravat nhà Slytherin",
+      "price": 20000,
+      "description": "Các tính năng:\n \t \tMới 100%;\n \t \tQuà Tặng Chất lượng cao và vô nhiễm;\n \t \tCà vạt màu làm bằng tay hoàn toàn mới;\n \t \tChất liệu lụa chất lượng phù hợp với mọi dịp;\n \t \tThiết kế cổ co giãn phù hợp với mọi lứa tuổi.\n \n Thông số kỹ thuật:\n\t\tVật liệu: sợi Polyester\n\t\tMàu sắc: hiển thị như hình ảnh\n\t\tChiều dài Cà Vạt: Khoảng 39.8 in\n\t\tChiều rộng (rộng nhất): khoảng 2.4 in\n\t\tGói bao gồm: 1 x cà vạt\nLưu ý:\n\t\t1. Vui lòng cho phép chênh lệch 0.1-0.3cm do đo bằng tay, cảm ơn.\n\t\t2. Xin vui lòng hiểu vì sự chiếu xạ ánh sáng hoặc sự khác biệt hiển thị của máy tính, vì vậy tôi không thể đảm bảo ảnh và màu sắc giống nhau 100%.\n\t\t",
+      "size": "Freesize",
+      "quantity": 10,
+      "relatedProducts": "11,9,10,7",
+      "image": "https://lzd-img-global.slatic.net/g/p/256423292f0d56a39a2121c0be14afec.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 13,
+      "name": "Đũa phép của Harry Potter",
+      "price": 20000,
+      "description": "Đũa phép phù thuỷ phim HP cực đẹp\n Size 39cm\n Hàng loại 1 lõi kim loại chắc chắc cứng cáp ko uốn cong, kèm hộp chắc chắn như hình\n Dành cho fan Harpotter",
+      "size": "Freesize",
+      "quantity": 5,
+      "relatedProducts": "12,14,11",
+      "image": "https://lzd-img-global.slatic.net/g/p/638a3539d9cf95aa081ae3cb8c7ff645.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 14,
+      "name": "Đũa phép của Harry Potter phát sáng",
+      "price": 30000,
+      "description": "Đũa phép phù thuỷ phim HP cực đẹp\n Size 39cm\n Hàng loại 1 lõi kim loại chắc chắc cứng cáp ko uốn cong, kèm hộp chắc chắn như hình\n Dành cho fan Harpotter",
+      "size": "Freesize",
+      "quantity": 5,
+      "relatedProducts": "11,12,13",
+      "image": "https://lzd-img-global.slatic.net/g/p/a085616403d55802345e0b222bf27db9.jpg_720x720q80.jpg_.webp"
+    }
+  ],
+  "dateTime": "2023-05-04T18:34:48.1172788+07:00"
+}
